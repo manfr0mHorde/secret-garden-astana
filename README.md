@@ -39,3 +39,5 @@ All styles, scripts and images use relative paths so this deployment works at th
 ## Production roadmap
 
 A real multi-shop product would need secure shop login, database and image storage, isolation of shop data, order status verification, proper delivery and payment handling, privacy controls, and a supported WhatsApp integration if automated messaging is ever needed.
+
+<!-- Pages: verify a branch-based deployment after configuration. -->
